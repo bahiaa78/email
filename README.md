@@ -4,7 +4,7 @@
 <h4>Email server setup script</h4>
 <p>Original repository - https://github.com/LukeSmithxyz/emailwiz</p>
 <h2>Installation</h2>
-<p>wget https://raw.githubusercontent.com/sokkoban/simplesmtp/main/simplesmtp.sh && chmod +x simplesmtp.sh && ./simplesmtp.sh</p>
+<p>wget https://raw.githubusercontent.com/bahiaa78/simplesmtp/main/simplesmtp.sh && chmod +x simplesmtp.sh && ./simplesmtp.sh</p>
 <h2 style="text-align:start">This script installs</h2>
 
 <ul>
